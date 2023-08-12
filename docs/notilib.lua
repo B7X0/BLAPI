@@ -141,7 +141,7 @@ function createBaseNotifications()
     Title1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     Title1.FontSize = Enum.FontSize.Size14
     Title1.TextSize = 14
-    Title1.TextColor3 = Color3.fromRGB(255, 255, 255)
+    Title1.TextColor3 = Color3.fromRGB(212, 175, 13) -- 255
     Title1.Font = Enum.Font.SourceSans
     Title1.Parent = DefaultNotif
     
@@ -153,7 +153,7 @@ function createBaseNotifications()
     Paragraph1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     Paragraph1.FontSize = Enum.FontSize.Size14
     Paragraph1.TextSize = 14
-    Paragraph1.TextColor3 = Color3.fromRGB(255, 255, 255)
+    Paragraph1.TextColor3 = Color3.fromRGB(14, 168, 8) -- 255
     Paragraph1.Text = ""
     Paragraph1.TextYAlignment = Enum.TextYAlignment.Top
     Paragraph1.TextWrapped = true
